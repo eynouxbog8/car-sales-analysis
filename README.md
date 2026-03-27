@@ -16,7 +16,7 @@ A key part of the analysis is measuring **sales concentration**, highlighting th
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/Dashboard Preview.png
 
 ---
 
